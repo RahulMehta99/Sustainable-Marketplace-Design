@@ -97,10 +97,8 @@ Internship Candidate | Web & App Designer | Sustainability Enthusiast
 
 ## 📞 Contact
 
-- Email: [your-email@example.com]
+- Email: rahulmehta120799@gmail.com 
 - Portfolio: [your-portfolio-link]
 - LinkedIn: [your-linkedin-profile]
 
----
 
-> 🗓️ Assignment created for internship interview presentation.
